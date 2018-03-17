@@ -1,0 +1,1 @@
+<?php $dbc = mysqli_connect('localhost', 'root', '', 'pwa') or die(mysqli_connect_error()); ?>
